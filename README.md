@@ -1,4 +1,3 @@
 # exercise-repo2
-hello 
-hi from master
+almost don efor today
 
